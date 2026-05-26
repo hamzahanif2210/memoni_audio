@@ -1,0 +1,12 @@
+numpy
+librosa
+soundfile
+pydub
+yt-dlp
+webrtcvad
+pandas
+requests
+datasets
+huggingface-hub
+deepfilternet
+audioread

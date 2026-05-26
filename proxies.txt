@@ -1,0 +1,10 @@
+38.154.203.95:5863:svqhiszw:b4dqsfz5vmf0
+198.105.121.200:6462:svqhiszw:b4dqsfz5vmf0
+64.137.96.74:6641:svqhiszw:b4dqsfz5vmf0
+209.127.138.10:5784:svqhiszw:b4dqsfz5vmf0
+38.154.185.97:6370:svqhiszw:b4dqsfz5vmf0
+84.247.60.125:6095:svqhiszw:b4dqsfz5vmf0
+142.111.67.146:5611:svqhiszw:b4dqsfz5vmf0
+191.96.254.138:6185:svqhiszw:b4dqsfz5vmf0
+31.58.9.4:6077:svqhiszw:b4dqsfz5vmf0
+198.46.161.42:5092:svqhiszw:b4dqsfz5vmf0
